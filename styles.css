@@ -1,0 +1,22 @@
+body {
+    background-color:azure;
+    font-family: Verdana, "Times New Roman", sans-serif;
+    
+}
+
+body.main{
+    text-align: center;
+}
+
+
+.btn-primary {
+    background-color:cornflowerblue;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.ul.main{
+    list-style: none;
+}
